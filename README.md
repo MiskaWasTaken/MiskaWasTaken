@@ -8,7 +8,8 @@
 [![spoogethiCodingEnjoyer](https://i.imgur.com/kR5vVsO.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 [![totallyTrue](https://i.imgur.com/C9DfHqi.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 [![false](https://i.imgur.com/4Wt7z6m.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-[![true](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
+[![true](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![true](https://i.imgur.com/NRtTLRI.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
   
 ## 🧰 Languages and Tools:
@@ -16,8 +17,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/53Be2Gq.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://i.imgur.com/iwjqYdx.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://i.imgur.com/NRtTLRI.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://i.imgur.com/iwjqYdx.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px"> 
   
 ## For my ego
 <img src="https://profile-counter.glitch.me/MiskaWasTaken/count.svg" alt="Ego Counter" height="40" style="vertical-align:top; margin:4px">
