@@ -38,7 +38,7 @@
 - [x] **~~Copy Pasted~~ i-I mean original code**
 
 
-- [x] **Gets stuck for 3hrs realzing I forgot to put a** `}`
+- [x] **Gets stuck for 3hrs realizing I forgot to put a** `}`
   - Realizes I am using a 2015 package
     - *Proceeds to contemplate my life choices*
 
