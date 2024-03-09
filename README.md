@@ -35,6 +35,10 @@ src="https://img.shields.io/github/followers/MiskaWasTaken?logo=github&style=for
 
 <p align="left"> <a href="https://www.github.com/MiskaWasTaken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/miskawastaken/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MiskaWasTaken&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MiskaWasTaken&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MiskaWasTaken&theme=dark&hide_border=false)<br/>
