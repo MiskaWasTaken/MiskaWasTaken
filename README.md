@@ -35,14 +35,10 @@ src="https://img.shields.io/github/followers/MiskaWasTaken?logo=github&style=for
 
 <p align="left"> <a href="https://www.github.com/MiskaWasTaken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/miskawastaken/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MiskaWasTaken&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MiskaWasTaken&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiskaWasTaken&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MiskaWasTaken"><img src="https://github-readme-stats.vercel.app/api?username=MiskaWasTaken&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MiskaWasTaken's GitHub stats" /></a>
-
-<a href="http://www.github.com/MiskaWasTaken"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MiskaWasTaken&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/MiskaWasTaken"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MiskaWasTaken&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/MiskaWasTaken" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiskaWasTaken&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=MiskaWasTaken&icon=0&color=0)](https://visitcount.itsvg.in)
