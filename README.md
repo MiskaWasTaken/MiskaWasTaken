@@ -11,7 +11,6 @@ As a self-taught developer, I am constantly seeking new challenges and opportuni
 * ✉️  You can contact me at [aaryamungli@gmail.com](mailto:aaryamungli@gmail.com)
 * 🧠  I'm learning C/C++
 * 🤝  I'm open to collaborating on Intermediate projects
-* ⚡  I love gaming
 
 <a href="https://www.github.com/MiskaWasTaken" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MiskaWasTaken?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
